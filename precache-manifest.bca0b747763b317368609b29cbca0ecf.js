@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "991c9c692dc120323cc214c86e80235e",
+    "revision": "5c7bc08ae7f48594d22566d76364c3b8",
     "url": "/WeStandWithNurses/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WeStandWithNurses/static/css/2.b0704b7a.chunk.css"
   },
   {
-    "revision": "6372258cc203572b12d4",
+    "revision": "be249e97c20ff2417077",
     "url": "/WeStandWithNurses/static/css/main.2ef436ad.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WeStandWithNurses/static/js/2.cc4ba2b9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6372258cc203572b12d4",
-    "url": "/WeStandWithNurses/static/js/main.b1b8db50.chunk.js"
+    "revision": "be249e97c20ff2417077",
+    "url": "/WeStandWithNurses/static/js/main.c2da2d65.chunk.js"
   },
   {
     "revision": "03f60aefa6eee1d6ad6a",
