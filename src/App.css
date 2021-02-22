@@ -1,0 +1,18 @@
+.App {
+  width: 100%;
+  background-image: url(./images/Covid19Background-.jpg);
+  background-size: cover;
+  min-height: 1200px;
+  height: auto !important;
+  height: 1200px;
+}
+#dropdown-basic{
+
+  background-color: rgba(129, 89, 60, 0);
+  border-color: rgba(255, 248, 220, 0);
+  color: rgba(0,0,0,.5);
+  margin-top: 1px;
+}
+#dropdown-basic:hover{
+  color: rgba(0, 0, 0, 0.767);
+}

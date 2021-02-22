@@ -1,0 +1,46 @@
+.container{
+background-color: #f8f9fa !important;
+margin-top: 3em;
+padding : 2em;
+border-radius: 25px;
+}
+.img{
+    
+}
+.aboutUsTitle{
+ position: absolute;
+ margin-top: -1.5em;
+ margin-left: .4em;
+}
+.col-sm{
+    
+}
+.quoteDiv{
+
+    position: absolute;
+    margin-left: 63%;
+    margin-bottom: 100%;
+    padding: 2em;
+    border-radius: 10px;
+    width:max-content;
+    max-width: 15em;
+    height:max-content;
+    max-height: 15em;
+    background-color: #f8f9fa;
+    vertical-align: middle;
+       
+     
+}
+
+@media screen and (min-width: 100px) and (max-width: 1000px) {
+    .quoteDiv{
+
+
+    margin-left: 10%;
+    padding: 2em;
+    padding-left: 0px;
+    border-radius: 10px;
+    background-color: #007efc;
+       
+    }
+}
