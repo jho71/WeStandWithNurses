@@ -20,13 +20,13 @@ class App extends Component {
         <div className="container">
         <Switch>
          
-          <Route exact path='/' render={() => (<About />)} />
-          <Route exact path='/about' render={() => (<About />)} />
-          <Route exact path='/quiz' render={() => (<Quiz />)} />
-          <Route exact path='/contact' render={() => (<Contact />)} />
-          <Route exact path='/statistics' render={() => (<Statistics />)} />
-          <Route exact path='/effects' render={() => (<Effects />)} />
-          <Route exact path='/howtohelp' render={() => (<HowToHelp />)} />
+          <Route exact path='/WeStandWithNurses/' render={() => (<About />)} />
+          <Route exact path='/WeStandWithNurses/about' render={() => (<About />)} />
+          <Route exact path='/WeStandWithNurses/quiz' render={() => (<Quiz />)} />
+          <Route exact path='/WeStandWithNurses/contact' render={() => (<Contact />)} />
+          <Route exact path='/WeStandWithNurses/statistics' render={() => (<Statistics />)} />
+          <Route exact path='/WeStandWithNurses/effects' render={() => (<Effects />)} />
+          <Route exact path='/WeStandWithNurses/howtohelp' render={() => (<HowToHelp />)} />
          
           <Route render={() => (<NotFound />)} />
         </Switch>
