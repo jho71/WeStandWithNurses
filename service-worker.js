@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/WeStandWithNurses/precache-manifest.752b55e1e3ed689db385b9fa81729d44.js"
+  "/WeStandWithNurses/precache-manifest.3e7163ce44a4debe9bfbd6f2870cc523.js"
 );
 
 self.addEventListener('message', (event) => {
