@@ -16,3 +16,35 @@
 #dropdown-basic:hover{
   color: rgba(0, 0, 0, 0.767);
 }
+
+.rightQuoteDiv{
+
+  position: absolute;
+  margin-left: 62%;
+  margin-bottom: 100%;
+  padding: 2em;
+  border-radius: 10px;
+  width:max-content;
+  max-width: 15em;
+  height:max-content;
+color: white;
+  background-color: #133b60;
+  vertical-align: middle;
+     
+   
+}
+.leftQuoteDiv{
+
+  position: absolute;
+  margin-left: -16%;
+  padding: 2em;
+  border-radius: 10px;
+  width:max-content;
+  max-width: 15em;
+  height:max-content;
+  color: white;
+  background-color: #133b60;
+  vertical-align: middle;
+     
+   
+}

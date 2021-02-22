@@ -1,9 +1,17 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './howToHelp.css';
-import Logo from './../../images/sideBySide.jpg'
+import Image from './../../images/PHOTO-2021-02-15-15-50-49.jpg'
 
 const HowToHelp = () => (
+  <div>
+  <div class= "rightQuoteDiv">
+  “A simple act of appreciation would be nice, like saying thank you by making posters or emailing our management.. and most importantly by becoming more responsible citizens to limit the spread of COVID by following public health guidelines like wearing masks when going out, proper hand hygiene, physical distancing and avoiding crowds."<br/>
+  (Khristel Dulatre, 2021) </div>
+ <div class= "leftQuoteDiv">
+       
+ “Community members can donate some PPE to the hospitals or nursing homes.” <br/>
+  (Anonymous) </div>
   <div class="container">
   <div class="row">
   <h1 class="aboutUsTitle"> How You Can Help Nurses</h1>
@@ -22,11 +30,11 @@ const HowToHelp = () => (
       
    
     <div class="col-sm">
-      <img src={Logo} alt="img"></img>
+      <img src={Image} id="Nurses" alt="img"></img>
     </div>
   </div>
  </div>
-   
+   </div>
 )
 
 

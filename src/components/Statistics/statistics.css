@@ -1,0 +1,10 @@
+.container{
+    margin-bottom: 0em;
+}
+.leftQuoteDiv, .rightQuoteDiv{
+    margin-top: 17% ;
+}
+#mentalHealth{
+    max-width:35em;
+    margin-top: 2em;
+}

@@ -9,7 +9,7 @@ class Quiz extends Component {
     // initiating the local state
     state = {
         questions: {
-            1: 'What regulations does Ontario currently have in place to protect against COVID-19?',
+        /*    1: 'What regulations does Ontario currently have in place to protect against COVID-19?',
             2: 'According to the Government of Canada website, what is one way you can minimize your risk of contracting COVID-19?',
             3: 'Are you familiar with the term “nursing burnout”? What comes to mind when you hear this?',
             4: 'Due to rising COVID-19 cases, hospitals and health facilities are continually being overwhelmed. Which of the following places may be at risk for having their nurses experience “burnout syndrome?” (select all that apply)',
@@ -19,9 +19,9 @@ class Quiz extends Component {
             8: 'Which of the following is the top source of stress for working nurses? (Hint: COVID-19 ridden units are overwhelmed with patients)',
             9: 'How does following COVID-19 government regulations make a difference?',
             10: 'How can I support the mental health of nurses working in COVID-19 units? (select all that apply)',
-            11: 'In following government regulations, you reduce your risk of developing COVID-19, which would  contribute to growing case numbers, and hospital overwhelment. Nurses appreciate this! Which of the following policies can you adhere to? (select all that apply)',
-            12: 'How can I show my support (COVID-19 working) nurses’ mental health? '
-            },
+            */11: 'In following government regulations, you reduce your risk of developing COVID-19, which would  contribute to growing case numbers, and hospital overwhelment. Nurses appreciate this! Which of the following policies can you adhere to? (select all that apply)',
+           12: 'How can I show my support (COVID-19 working) nurses’ mental health? '
+             },
         answers: {
             1: {
                 1: 'N-95 mask mandates for citizens',

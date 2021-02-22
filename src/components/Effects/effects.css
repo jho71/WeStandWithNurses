@@ -1,4 +1,14 @@
 .effectsTitle{
     letter-spacing: -2px;
-    
+   padding-top: 1em;
+}
+
+.leftQuoteDiv{
+    margin-top: 0% !important;
+    margin-left: -18%;
+}
+#help{
+    margin-top: .4em;
+    max-width: 30em;
+    margin-left: 1em;
 }

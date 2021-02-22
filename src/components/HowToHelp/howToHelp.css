@@ -4,30 +4,22 @@
     padding : 2em;
     border-radius: 25px;
     }
-    .img{
-        
-    }
+
     .aboutUsTitle{
      position: absolute;
      margin-top: -1.5em;
      margin-left: .4em;
     }
-    .col-sm{
-        
+    #Nurses{
+        max-width: 23em ;
+        margin-left: 5em;
+        margin-top:.5em;
     }
-    .quoteDiv{
-    
-        position: absolute;
-        margin-left: 63%;
-        margin-bottom: 100%;
-        padding: 2em;
-        border-radius: 10px;
-        width:max-content;
-        max-width: 15em;
-        height:max-content;
-        max-height: 15em;
-        background-color: #f8f9fa;
-        vertical-align: middle;     
+    .leftQuoteDiv{
+        margin-top: 8%  !important;
+    }
+    .rightQuoteDiv{
+        margin-top: 0%  !important;
     }
     li{
        margin-bottom: .5em; 

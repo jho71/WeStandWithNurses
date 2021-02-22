@@ -13,3 +13,7 @@
     text-transform: none;
     text-shadow: none;
 }
+#certificate{
+    width: 38em;
+    padding: 2em;
+}
