@@ -1,28 +1,33 @@
 {
   "files": {
-    "main.css": "/WeStandWithNurses/static/css/main.2ef436ad.chunk.css",
-    "main.js": "/WeStandWithNurses/static/js/main.9bebe343.chunk.js",
-    "main.js.map": "/WeStandWithNurses/static/js/main.9bebe343.chunk.js.map",
+    "main.css": "/WeStandWithNurses/static/css/main.e2a1de5b.chunk.css",
+    "main.js": "/WeStandWithNurses/static/js/main.9f11feb0.chunk.js",
+    "main.js.map": "/WeStandWithNurses/static/js/main.9f11feb0.chunk.js.map",
     "runtime-main.js": "/WeStandWithNurses/static/js/runtime-main.ae66c914.js",
     "runtime-main.js.map": "/WeStandWithNurses/static/js/runtime-main.ae66c914.js.map",
     "static/css/2.b0704b7a.chunk.css": "/WeStandWithNurses/static/css/2.b0704b7a.chunk.css",
-    "static/js/2.cc4ba2b9.chunk.js": "/WeStandWithNurses/static/js/2.cc4ba2b9.chunk.js",
-    "static/js/2.cc4ba2b9.chunk.js.map": "/WeStandWithNurses/static/js/2.cc4ba2b9.chunk.js.map",
+    "static/js/2.4f9702ef.chunk.js": "/WeStandWithNurses/static/js/2.4f9702ef.chunk.js",
+    "static/js/2.4f9702ef.chunk.js.map": "/WeStandWithNurses/static/js/2.4f9702ef.chunk.js.map",
     "index.html": "/WeStandWithNurses/index.html",
-    "precache-manifest.bfb6d891f5258e14dc916da125046d47.js": "/WeStandWithNurses/precache-manifest.bfb6d891f5258e14dc916da125046d47.js",
+    "precache-manifest.7c6f8377291f0fdc13e2e175984db901.js": "/WeStandWithNurses/precache-manifest.7c6f8377291f0fdc13e2e175984db901.js",
     "service-worker.js": "/WeStandWithNurses/service-worker.js",
     "static/css/2.b0704b7a.chunk.css.map": "/WeStandWithNurses/static/css/2.b0704b7a.chunk.css.map",
-    "static/css/main.2ef436ad.chunk.css.map": "/WeStandWithNurses/static/css/main.2ef436ad.chunk.css.map",
-    "static/js/2.cc4ba2b9.chunk.js.LICENSE.txt": "/WeStandWithNurses/static/js/2.cc4ba2b9.chunk.js.LICENSE.txt",
+    "static/css/main.e2a1de5b.chunk.css.map": "/WeStandWithNurses/static/css/main.e2a1de5b.chunk.css.map",
+    "static/js/2.4f9702ef.chunk.js.LICENSE.txt": "/WeStandWithNurses/static/js/2.4f9702ef.chunk.js.LICENSE.txt",
+    "static/media/43ee1b3b-4e4a-49be-8120-7ca44be3746c[4617].JPG": "/WeStandWithNurses/static/media/43ee1b3b-4e4a-49be-8120-7ca44be3746c[4617].870c11a8.JPG",
     "static/media/App.css": "/WeStandWithNurses/static/media/Covid19Background-.93d69ea5.jpg",
+    "static/media/PHOTO-2021-02-15-15-50-49.jpg": "/WeStandWithNurses/static/media/PHOTO-2021-02-15-15-50-49.68d7d868.jpg",
+    "static/media/PHOTO-2021-02-15-15-50-50 - Copy.jpg": "/WeStandWithNurses/static/media/PHOTO-2021-02-15-15-50-50 - Copy.dfb98f5f.jpg",
+    "static/media/covid-19-ptsd-frontline-health-care-workers-mental-health.jpg": "/WeStandWithNurses/static/media/covid-19-ptsd-frontline-health-care-workers-mental-health.71544dbc.jpg",
     "static/media/covid19.png": "/WeStandWithNurses/static/media/covid19.2d4be761.png",
-    "static/media/sideBySide.jpg": "/WeStandWithNurses/static/media/sideBySide.534d309c.jpg"
+    "static/media/mentalhealth.jpg": "/WeStandWithNurses/static/media/mentalhealth.f0a85bad.jpg",
+    "static/media/sideBySide.jpg": "/WeStandWithNurses/static/media/sideBySide.f67ea0a6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ae66c914.js",
     "static/css/2.b0704b7a.chunk.css",
-    "static/js/2.cc4ba2b9.chunk.js",
-    "static/css/main.2ef436ad.chunk.css",
-    "static/js/main.9bebe343.chunk.js"
+    "static/js/2.4f9702ef.chunk.js",
+    "static/css/main.e2a1de5b.chunk.css",
+    "static/js/main.9f11feb0.chunk.js"
   ]
 }
