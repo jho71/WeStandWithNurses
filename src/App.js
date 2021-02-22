@@ -9,7 +9,7 @@ import Statistics from './components/Statistics/statistics'
 import HowToHelp from './components/HowToHelp/howToHelp';
 import Effects from './components/Effects/effects';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Route, Switch } from 'react-router-dom';
+import { Route, Switch, HashRouter } from 'react-router-dom';
 
 class App extends Component {
   render() {
@@ -18,6 +18,7 @@ class App extends Component {
       <div className="App">
         <Navbar />
         <div className="container">
+        <HashRouter>
         <Switch>
          
           <Route exact path='/WeStandWithNurses/' render={() => (<About />)} />
@@ -30,6 +31,7 @@ class App extends Component {
          
           <Route render={() => (<NotFound />)} />
         </Switch>
+        </HashRouter>
         </div>
       </div>
     )
