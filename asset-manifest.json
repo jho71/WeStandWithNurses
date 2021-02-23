@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/WeStandWithNurses/static/css/main.ee79e602.chunk.css",
+    "main.css": "/WeStandWithNurses/static/css/main.6bcf9d3f.chunk.css",
     "main.js": "/WeStandWithNurses/static/js/main.f00fc706.chunk.js",
     "main.js.map": "/WeStandWithNurses/static/js/main.f00fc706.chunk.js.map",
     "runtime-main.js": "/WeStandWithNurses/static/js/runtime-main.ae66c914.js",
@@ -9,10 +9,10 @@
     "static/js/2.81fb97ad.chunk.js": "/WeStandWithNurses/static/js/2.81fb97ad.chunk.js",
     "static/js/2.81fb97ad.chunk.js.map": "/WeStandWithNurses/static/js/2.81fb97ad.chunk.js.map",
     "index.html": "/WeStandWithNurses/index.html",
-    "precache-manifest.74edd09265a723b13b472c6a9caa74b7.js": "/WeStandWithNurses/precache-manifest.74edd09265a723b13b472c6a9caa74b7.js",
+    "precache-manifest.3d71dbc4f955763c760df5f6e60e8131.js": "/WeStandWithNurses/precache-manifest.3d71dbc4f955763c760df5f6e60e8131.js",
     "service-worker.js": "/WeStandWithNurses/service-worker.js",
     "static/css/2.b0704b7a.chunk.css.map": "/WeStandWithNurses/static/css/2.b0704b7a.chunk.css.map",
-    "static/css/main.ee79e602.chunk.css.map": "/WeStandWithNurses/static/css/main.ee79e602.chunk.css.map",
+    "static/css/main.6bcf9d3f.chunk.css.map": "/WeStandWithNurses/static/css/main.6bcf9d3f.chunk.css.map",
     "static/js/2.81fb97ad.chunk.js.LICENSE.txt": "/WeStandWithNurses/static/js/2.81fb97ad.chunk.js.LICENSE.txt",
     "static/media/43ee1b3b-4e4a-49be-8120-7ca44be3746c[4617].JPG": "/WeStandWithNurses/static/media/43ee1b3b-4e4a-49be-8120-7ca44be3746c[4617].870c11a8.JPG",
     "static/media/5dda5e74-4b09-463c-b078-bebb5d6a47a4.JPG": "/WeStandWithNurses/static/media/5dda5e74-4b09-463c-b078-bebb5d6a47a4.98f5b84c.JPG",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.ae66c914.js",
     "static/css/2.b0704b7a.chunk.css",
     "static/js/2.81fb97ad.chunk.js",
-    "static/css/main.ee79e602.chunk.css",
+    "static/css/main.6bcf9d3f.chunk.css",
     "static/js/main.f00fc706.chunk.js"
   ]
 }
